@@ -6,6 +6,9 @@
   "author": "Gullit Miranda <gullitmiranda@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "chalk": "^2.3.0",
     "express": "^4.16.2",
