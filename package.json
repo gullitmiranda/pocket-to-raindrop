@@ -1,0 +1,20 @@
+{
+  "name": "pocket-to-raindrop",
+  "version": "0.1.0",
+  "description": "Sync pocket bookmarks to raindrop.io",
+  "main": "index.js",
+  "author": "Gullit Miranda <gullitmiranda@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "express": "^4.16.2",
+    "node-fetch": "^1.7.3",
+    "opn": "^5.2.0",
+    "simple-oauth2": "^1.5.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  }
+}
